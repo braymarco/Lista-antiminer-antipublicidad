@@ -1,0 +1,2 @@
+https://adshort.co/js/full-page-script.js
+https://coin-hive.com/lib/coinhive.min.js
